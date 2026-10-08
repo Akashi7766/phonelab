@@ -1,5 +1,7 @@
 # PhoneLab — smartphone torture simulator
 
+**▶ Play it: https://akashi7766.github.io/phonelab/**
+
 A browser sandbox for abusing phones (and a few other gadgets) in the name of science. No build step, no dependencies: open `index.html` or serve the folder.
 
 ```bash
